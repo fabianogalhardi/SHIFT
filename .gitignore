@@ -1,0 +1,7 @@
+# Nunca versionar dados de pacientes, credenciais ou registros locais
+robo_uti/saidas/
+robo_uti/logs/
+robo_uti/.venv/
+robo_uti/roteiro_elis.txt
+*.env
+__pycache__/

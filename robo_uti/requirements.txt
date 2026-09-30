@@ -1,0 +1,4 @@
+anthropic>=0.70
+playwright>=1.47
+requests>=2.31
+keyring>=25
